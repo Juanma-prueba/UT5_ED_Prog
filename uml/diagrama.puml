@@ -1,0 +1,37 @@
+@startuml
+
+abstract class Vehiculo {
+}
+
+abstract class Coche {
+}
+
+class Sedan {
+}
+
+class Suv {
+}
+
+class Deportivo {
+}
+
+abstract class Moto {
+}
+
+class Scooter {
+}
+
+class MotoDeportiva {
+}
+
+class Camion {
+}
+
+class Persona {
+}
+
+interface Valorable {
+}
+
+
+@enduml
