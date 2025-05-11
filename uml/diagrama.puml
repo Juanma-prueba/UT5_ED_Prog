@@ -1,12 +1,5 @@
 @startuml
 
-
-class Principal {
-  + main(String[]): void
-  + mostrarMenu(): void
-  + crearVehiculo(Concesionario): void
-  }
-
 abstract class Vehiculo {
     - matricula: String
     - marca: String
